@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushApp</string>
+    <string name="hintNroDocumento">Nro Documento</string>
+    <string name="btnRegistrar">Registrar</string>
+</resources>
